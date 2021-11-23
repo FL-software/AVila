@@ -1,0 +1,8 @@
+C:\Users\Maia\source\repos\FL-software\AVila\FLSoftware.AVila.Front\obj\Debug\net5.0\FLSoftware.AVila.Front.csprojAssemblyReference.cache
+C:\Users\Maia\source\repos\FL-software\AVila\FLSoftware.AVila.Front\obj\Debug\net5.0\FLSoftware.AVila.Front.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maia\source\repos\FL-software\AVila\FLSoftware.AVila.Front\obj\Debug\net5.0\FLSoftware.AVila.Front.AssemblyInfoInputs.cache
+C:\Users\Maia\source\repos\FL-software\AVila\FLSoftware.AVila.Front\obj\Debug\net5.0\FLSoftware.AVila.Front.AssemblyInfo.cs
+C:\Users\Maia\source\repos\FL-software\AVila\FLSoftware.AVila.Front\obj\Debug\net5.0\FLSoftware.AVila.Front.csproj.CoreCompileInputs.cache
+C:\Users\Maia\source\repos\FL-software\AVila\FLSoftware.AVila.Front\obj\Debug\net5.0\FLSoftware.AVila.Front.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Maia\source\repos\FL-software\AVila\FLSoftware.AVila.Front\obj\Debug\net5.0\FLSoftware.AVila.Front.RazorAssemblyInfo.cache
+C:\Users\Maia\source\repos\FL-software\AVila\FLSoftware.AVila.Front\obj\Debug\net5.0\FLSoftware.AVila.Front.RazorAssemblyInfo.cs
